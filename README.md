@@ -1,8 +1,5 @@
 ## Hi there 👋
 #### My name is olwadunsin fajemila. I am a Machine Learning Enginer that loves building Machine learning models for educational and social purposes, participates in datascience hackathon/competitions to solve real world problems.
-<!--
-**fajemila/fajemila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on NLP Projects including question answering chatbots , Translation of Nigeria Languages to Another
 - 🌱 I’m currently learning Advanced NLP Algorithms, how to deploy Machine Learning Models Using Docker,Kubernetes, Flask
 - 👯 I’m looking to collaborate on open source tools for Data Science and Machine Learning and also with DataScience Hackathons
